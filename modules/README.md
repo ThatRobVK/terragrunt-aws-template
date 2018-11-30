@@ -1,0 +1,1 @@
+The modules folder contains all the generic modules required for a project. Each module goes in a separate subfolder of modules and contains everything required to run, except for the environment-specific config.

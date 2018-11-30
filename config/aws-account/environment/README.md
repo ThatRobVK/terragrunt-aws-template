@@ -1,0 +1,1 @@
+This folder contains an environment. This allows a single AWS account to host multiple environments, e.g. a nonprod account with multiple environments such as preprod, integration, qa, etc.

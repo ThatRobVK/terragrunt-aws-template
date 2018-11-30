@@ -1,0 +1,1 @@
+This folder contains everything for a specific VPC within the environment. An environment may contain multiple VPCs. This colder contains a subfolder for each module that needs to be run in this VPC. Different VPC folders may contain different modules depending on what is required.

@@ -1,0 +1,1 @@
+This is a module folder and contains the config required to run a specific module within the parent VPC.
